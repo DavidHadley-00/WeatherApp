@@ -5,5 +5,5 @@ Simple Java app that uses APIs to retrieve weather info and display them
 ## About
 
 I made this project to learn how to make API requests in Java,
-Work with JSON data and Parsing API responses.
+Work with JSON data and Parsing API responses. As well as getting familiar with github since I'm used to gitlab.
 
